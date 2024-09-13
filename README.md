@@ -1,4 +1,4 @@
-# Welcome to the Cal Poly Humboldt CS Club Github Portfolio Wokrshop!
+# Welcome to the Cal Poly Humboldt CS Club Github Portfolio Workshop!
 
 ## Pre-Workshop Instructions:
 ### Install Visual Studio Code: https://code.visualstudio.com/Download 

@@ -1,5 +1,8 @@
 # Welcome to the Cal Poly Humboldt CS Club Github Portfolio Workshop!
 
+## Full Presentation Link
+[Github Portfolio Workshop](https://docs.google.com/presentation/d/1rQKIyL59CLzpuZIP0WYELGtMhvCGho975UfP6fiDhVw/edit?usp=sharing)
+
 ## Pre-Workshop Instructions:
 ### Install Visual Studio Code: https://code.visualstudio.com/Download 
 - Required: Check the box that says “Register Code as an editor for supported file types” and the box that says “Add to PATH”
@@ -7,7 +10,7 @@
 - Once open, go to settings and make sure that Git Enabled is checked
 
 ### Install Git and Git Bash
-- In-Depth Instructions: https://docs.google.com/presentation/d/1rs-rPwyBQ8juj9wF6m6PLoHBoKlXVU0z/edit?usp=sharing&ouid=103962096229617255330&rtpof=true&sd=true
+- [In-Depth Instructions](https://docs.google.com/presentation/d/1rs-rPwyBQ8juj9wF6m6PLoHBoKlXVU0z/edit?usp=sharing&ouid=103962096229617255330&rtpof=true&sd=true)
 - When installing on Windows, make sure you check the box for Git Bash
 - Use Visual Studio Code as Git’s default editor
 - Open Git Bash when prompted and run the command “Git Version”
@@ -55,8 +58,8 @@
 - https://pydanny.blogspot.com/2011/08/github-is-my-resume.html?m=1
 - https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer 
 
-
-
+## FAQ
+[Git/GitHub FAQ](https://docs.google.com/document/d/1Ceart_mmGgnEE1AdNOeaSsdZQmm9gZpBpx-mk_ZvBSg/edit?usp=sharing)
 
 
 
